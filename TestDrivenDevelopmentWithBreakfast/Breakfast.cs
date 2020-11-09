@@ -29,8 +29,7 @@ namespace TestDrivenDevelopmentWithBreakfast
 
         public static Eggs FryEggs(int count)
         {
-            Eggs eggs = new Eggs(count);
-            return eggs;
+            return new Eggs(count);
         }
 
         /*
@@ -41,8 +40,7 @@ namespace TestDrivenDevelopmentWithBreakfast
 
         public static Bacon FryBacon(int count)
         {
-            Bacon bacon = new Bacon(count);
-            return bacon;
+            return new Bacon(count);
         }
 
         public static void EatBacon(ref Bacon myBacons, int count)
