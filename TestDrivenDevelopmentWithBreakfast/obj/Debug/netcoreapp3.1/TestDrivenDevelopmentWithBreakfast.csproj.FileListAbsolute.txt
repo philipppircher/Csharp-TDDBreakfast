@@ -1,0 +1,13 @@
+C:\Users\DCV\Desktop\Code\05 C#\TestDrivenDevelopmentWithBreakfast\TestDrivenDevelopmentWithBreakfast\bin\Debug\netcoreapp3.1\TestDrivenDevelopmentWithBreakfast.exe
+C:\Users\DCV\Desktop\Code\05 C#\TestDrivenDevelopmentWithBreakfast\TestDrivenDevelopmentWithBreakfast\bin\Debug\netcoreapp3.1\TestDrivenDevelopmentWithBreakfast.deps.json
+C:\Users\DCV\Desktop\Code\05 C#\TestDrivenDevelopmentWithBreakfast\TestDrivenDevelopmentWithBreakfast\bin\Debug\netcoreapp3.1\TestDrivenDevelopmentWithBreakfast.runtimeconfig.json
+C:\Users\DCV\Desktop\Code\05 C#\TestDrivenDevelopmentWithBreakfast\TestDrivenDevelopmentWithBreakfast\bin\Debug\netcoreapp3.1\TestDrivenDevelopmentWithBreakfast.runtimeconfig.dev.json
+C:\Users\DCV\Desktop\Code\05 C#\TestDrivenDevelopmentWithBreakfast\TestDrivenDevelopmentWithBreakfast\bin\Debug\netcoreapp3.1\TestDrivenDevelopmentWithBreakfast.dll
+C:\Users\DCV\Desktop\Code\05 C#\TestDrivenDevelopmentWithBreakfast\TestDrivenDevelopmentWithBreakfast\bin\Debug\netcoreapp3.1\TestDrivenDevelopmentWithBreakfast.pdb
+C:\Users\DCV\Desktop\Code\05 C#\TestDrivenDevelopmentWithBreakfast\TestDrivenDevelopmentWithBreakfast\obj\Debug\netcoreapp3.1\TestDrivenDevelopmentWithBreakfast.csprojAssemblyReference.cache
+C:\Users\DCV\Desktop\Code\05 C#\TestDrivenDevelopmentWithBreakfast\TestDrivenDevelopmentWithBreakfast\obj\Debug\netcoreapp3.1\TestDrivenDevelopmentWithBreakfast.AssemblyInfoInputs.cache
+C:\Users\DCV\Desktop\Code\05 C#\TestDrivenDevelopmentWithBreakfast\TestDrivenDevelopmentWithBreakfast\obj\Debug\netcoreapp3.1\TestDrivenDevelopmentWithBreakfast.AssemblyInfo.cs
+C:\Users\DCV\Desktop\Code\05 C#\TestDrivenDevelopmentWithBreakfast\TestDrivenDevelopmentWithBreakfast\obj\Debug\netcoreapp3.1\TestDrivenDevelopmentWithBreakfast.csproj.CoreCompileInputs.cache
+C:\Users\DCV\Desktop\Code\05 C#\TestDrivenDevelopmentWithBreakfast\TestDrivenDevelopmentWithBreakfast\obj\Debug\netcoreapp3.1\TestDrivenDevelopmentWithBreakfast.dll
+C:\Users\DCV\Desktop\Code\05 C#\TestDrivenDevelopmentWithBreakfast\TestDrivenDevelopmentWithBreakfast\obj\Debug\netcoreapp3.1\TestDrivenDevelopmentWithBreakfast.pdb
+C:\Users\DCV\Desktop\Code\05 C#\TestDrivenDevelopmentWithBreakfast\TestDrivenDevelopmentWithBreakfast\obj\Debug\netcoreapp3.1\TestDrivenDevelopmentWithBreakfast.genruntimeconfig.cache
