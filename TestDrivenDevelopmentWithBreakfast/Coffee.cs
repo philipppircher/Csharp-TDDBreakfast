@@ -7,7 +7,7 @@ namespace TestDrivenDevelopmentWithBreakfast
     public class Coffee
     {
         private string[] coffeeCondition = { "Hot", "Quite hot", "Not so hot", "Cold" };
-        private int count = 0;
+        private int count;
 
         public string Temperature
         {
